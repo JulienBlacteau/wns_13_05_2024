@@ -1,0 +1,18 @@
+.header {
+    background-color: rgb(76, 111, 208);
+    height: 150px;
+}
+
+.text{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 1%;
+    text-align: center;
+}
+
+.link{
+
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: white;
+    align-content: center;
+}
